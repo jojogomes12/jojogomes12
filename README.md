@@ -1,4 +1,4 @@
-## Olá meu nome é João Gomes, Programador Mobile e Web!
+## Olá meu nome é João Pedro Gomes Paulino, Programador Mobile e Web!
 <div align="center">
   <a href="https://github.com/jojogomes12">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jojogomes12&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
