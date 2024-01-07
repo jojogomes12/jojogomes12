@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="João-Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
-  <img align="center" alt="João-Laravel" height="30" width="40" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png">
+  <img align="center" alt="João-Mysql" height="30" width="40" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png">
   <img align="center" alt="João-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="João-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="João-pic" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/d399df8f60eceeaad289f75804ff8e5a/tumblr_o5bue5GcrB1tgzy56o2_250.gifv">
